@@ -2,8 +2,6 @@
 
 - https://github.com/exposir/public_actions
 
-
-
 ## 特别声明
 
 **1. 本仓库发布的脚本及其中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。**
@@ -24,23 +22,22 @@
 
 **9. 本仓库脚本和打包的插件仅用于学习和测试，也请在完成之前，仔细阅读特别声明，完成后，删除脚本和插件，谢谢！**
 
-
 ## Special Notice
 
-**1. The scripts published in this repository and any unlocking and decryption analysis scripts involved in them are for testing and learning research only, commercial use is prohibited and cannot be guaranteed for legality, accuracy, completeness and validity, please judge for yourself according to the situation. **
+**1. The scripts published in this repository and any unlocking and decryption analysis scripts involved in them are for testing and learning research only, commercial use is prohibited and cannot be guaranteed for legality, accuracy, completeness and validity, please judge for yourself according to the situation.**
 
-**2. I am not responsible for any scripting issues, including but not limited to any loss or damage caused by any scripting errors. **
+**2. I am not responsible for any scripting issues, including but not limited to any loss or damage caused by any scripting errors.**
 
-**3. I am not responsible for any privacy breach or other consequences arising from any indirect use of the scripts by any user who sets up a VPS or distributes them in some way that violates national/regional laws or related regulations. **4.
+**3. I am not responsible for any privacy breach or other consequences arising from any indirect use of the scripts by any user who sets up a VPS or distributes them in some way that violates national/regional laws or related regulations.**
 
-**4. Please do not use any of the contents of this repository for commercial or illegal purposes, otherwise you will be responsible for the consequences. **
+**4. Please do not use any of the contents of this repository for commercial or illegal purposes, otherwise you will be responsible for the consequences.**
 
-**5. If any entity or individual believes that the scripts of this project may be suspected of infringing their rights, they should promptly notify and provide proof of identity and ownership, and we will delete the relevant scripts upon receipt of the authentication documents. **
+**5. If any entity or individual believes that the scripts of this project may be suspected of infringing their rights, they should promptly notify and provide proof of identity and ownership, and we will delete the relevant scripts upon receipt of the authentication documents.**
 
-**6. Any person viewing this project in any way or any user who directly or indirectly uses any script of this project should read this disclaimer carefully. I reserve the right to change or supplement this disclaimer at any time. By using and copying the rules of any related script or Script project, you are deemed to have accepted this disclaimer. **7.
+**6. Any person viewing this project in any way or any user who directly or indirectly uses any script of this project should read this disclaimer carefully. I reserve the right to change or supplement this disclaimer at any time. By using and copying the rules of any related script or Script project, you are deemed to have accepted this disclaimer.**
 
-**You must completely delete downloaded content from your storage device within 24 hours of downloading any content. ** **8.
+**7. You must completely delete downloaded content from your storage device within 24 hours of downloading any content.**
 
-**8. You are deemed to have `accepted' this disclaimer by using or copying any scripts created by this repository and myself, please read it carefully, thank you! ** **9.
+**8. You are deemed to have `accepted' this disclaimer by using or copying any scripts created by this repository and myself, please read it carefully, thank you!**
 
-**9. This repository scripts and packaged plugins are for learning and testing purposes only, please also read the special disclaimer carefully before you finish, and after you finish, delete the scripts and plugins, thank you! **
+**9. This repository scripts and packaged plugins are for learning and testing purposes only, please also read the special disclaimer carefully before you finish, and after you finish, delete the scripts and plugins, thank you!**
